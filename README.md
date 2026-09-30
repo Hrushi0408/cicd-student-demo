@@ -1,1 +1,0 @@
-# cicd-student-demo
